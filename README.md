@@ -1,4 +1,9 @@
+<h1 align="center">Hello world,I'm Pedro Ferreira</h1>
 <h3 align="center">a developer in development</h3>
+
+- 🖥️ I’m currently working on [RaceInfoSPA](https://github.com/pedroferreiracodes/RaceInfoSPA)
+
+- 💬 Ask me about **cats and cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
