@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Pedro Ferreira</h1>
-<h3 align="center">a developer in development</h3>
+<h3 align="center">✨ a developer in development ✨</h3>
 <br>
-🖥️ I’m currently working on [RaceInfoSPA](https://github.com/pedroferreiracodes/RaceInfoSPA)
+🖥️ I’m currently working on [f1data] (https://github.com/pedroferreiracodes/f1data)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
