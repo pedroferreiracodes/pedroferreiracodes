@@ -15,6 +15,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.chapter247.com/wp-content/uploads/2019/11/110-1106837_proj4js-by-proj4js-javascript-icon-logo-png-clipart.png" alt="javascript" width="40" height="40" hspace="5"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css3" width="40" height="40" hspace="5"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" hspace="2"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="html5" width="40" height="40" hspace="2"/> </a>
+  
 </p>  
 <p align="center">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="spring" width="40" height="40" hspace="5"/> </a> 
