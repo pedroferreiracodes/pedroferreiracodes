@@ -1,8 +1,8 @@
 <h3 align="center">Hello world, I'm Pedro Ferreira</h3>
 <h4 align="center">✨ a developer in development ✨</h4>
 <br>
-<p align="center">🖥️  I’m currently working on f1data (https://github.com/pedroferreiracodes/f1data)</p>
-<p align="center">📖  I’m currently studying Eloquent Javascript (https://eloquentjavascript.net/)</p>
+<p align="center">🖥️  I’m currently learning Ruby on Rails (https://github.com/pedroferreiracodes/f1data](https://github.com/pedroferreiracodes/insta_clone)</p>
+<p align="center">📖  I’m currently studying Programming Ruby (https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition)</p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -12,7 +12,8 @@
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" alt="java" width="40" height="40" hspace="5"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/980/847/png-transparent-ruby-on-rails-logo-programming-language-rubygems-ruby-angle-design-ruby.png" alt="java" width="40" height="40" hspace="5"/> </a>
+<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" alt="ruby" width="40" height="40" hspace="5"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.chapter247.com/wp-content/uploads/2019/11/110-1106837_proj4js-by-proj4js-javascript-icon-logo-png-clipart.png" alt="javascript" width="40" height="40" hspace="5"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css3" width="40" height="40" hspace="5"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" hspace="2"/> </a>
@@ -20,6 +21,7 @@
   
 </p>  
 <p align="center">
+ <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/382/259/png-transparent-circle-programming-rails-round-icon-ruby-ruby-rails-popular-services-brands-vol-2-icon.png" alt="ruby on rails" width="40" height="40" hspace="5"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="spring" width="40" height="40" hspace="5"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" width="40" height="40" hspace="5"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="5"/> </a>
