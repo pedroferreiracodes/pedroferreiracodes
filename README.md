@@ -1,7 +1,7 @@
 <h3 align="center">Hello world, I'm Pedro Ferreira</h3>
 <h4 align="center">✨ a developer in development ✨</h4>
 <br>
-<p align="center">🖥️  I’m currently learning Ruby on Rails (https://github.com/pedroferreiracodes/f1data](https://github.com/pedroferreiracodes/insta_clone)</p>
+<p align="center">🖥️  I’m currently learning Ruby on Rails ((https://github.com/pedroferreiracodes/insta_clone)</p>
 <p align="center">📖  I’m currently studying Programming Ruby (https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition)</p>
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -21,7 +21,7 @@
   
 </p>  
 <p align="center">
- <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/382/259/png-transparent-circle-programming-rails-round-icon-ruby-ruby-rails-popular-services-brands-vol-2-icon.png" alt="ruby on rails" width="40" height="40" hspace="5"/> </a> 
+ <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://ibb.co/mvh2Nzm" alt="ruby on rails" width="40" height="40" hspace="5"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="spring" width="40" height="40" hspace="5"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" width="40" height="40" hspace="5"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="5"/> </a>
